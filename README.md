@@ -1,2 +1,2 @@
-# weather
+# WeatherIconsReact
 Created with CodeSandbox
